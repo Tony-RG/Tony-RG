@@ -8,7 +8,7 @@ Hi, I'm Tony, and I'm excited to explore the intersection between art, design an
 ## Learning from:
 <table>
   <tr>
-    <td align="center"><a href="timrodenbroeker.de/"><img src="https://timrodenbroeker.de/wp-content/uploads/2021/01/tim-20-1536x1152.jpg" width="100px;" alt="Tim Rodenbroeker"/><br /><sub><b>Tim Rodenbroeker</b></sub></a><br />
+    <td align="center"><a href="https://timrodenbroeker.de/"><img src="https://timrodenbroeker.de/wp-content/uploads/2021/01/tim-20-1536x1152.jpg" width="100px;" alt="Tim Rodenbroeker"/><br /><sub><b>Tim Rodenbroeker</b></sub></a><br />
 
 </table>
 <!--
