@@ -9,7 +9,7 @@
 ## Learning from:
 <table>
   <tr>
-    <td align="center"><a href="https://timrodenbroeker.de/"><img src="https://timrodenbroeker.de/wp-content/uploads/2021/01/tim-20-1536x1152.jpg" width="100px;" alt="Tim Rodenbröker"/><br /><sub><b>Tim Rodenbroeker</b></sub></a><br /></a></td>
+    <td align="center"><a href="https://timrodenbroeker.de/"><img src="https://timrodenbroeker.de/wp-content/uploads/2021/01/tim-20-1536x1152.jpg" width="100px;" alt="Tim Rodenbröker"/><br /><sub><b>Tim Rodenbroeker</b></sub></a><br /></td>
   <tr>
     <td align="center"><a href="https://thecodingtrain.com/"><img src="https://etapes.com/app/uploads/2010/08/interview-de-daniel-shiffman-au-festival-offf.jpg" width="100px;" alt="Daniel Shiffman"/><br /><sub><b>Daniel Shiffman</b></sub></a><br />
 </table>
