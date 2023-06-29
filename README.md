@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://timrodenbroeker.de/"><img src="https://timrodenbroeker.de/wp-content/uploads/2021/01/tim-9.jpg" width="100px;" height="75px;" alt="Tim Rodenbröker"/><br /><sub><b>Tim Rodenbroeker</b></sub></a></td>
-    <td align="center"><a href="https://thecodingtrain.com/"><img src="https://pbs.twimg.com/profile_images/1553384187805171712/xjOdl5bz_400x400.jpg" width="75px;" height="100px;" alt="Daniel Shiffman"/><br /><sub><b>Daniel Shiffman</b></sub></a></td>
+    <td align="center"><a href="https://thecodingtrain.com/"><img src="https://pbs.twimg.com/profile_images/1553384187805171712/xjOdl5bz_400x400.jpg" width="90px;" height="100px;" alt="Daniel Shiffman"/><br /><sub><b>Daniel Shiffman</b></sub></a></td>
     <td align="center"><a href="https://www.youtube.com/@Airroom"><img src="https://yt3.googleusercontent.com/ytc/AGIKgqMCLXfuBHQMHY9nF5ZZL4sAfJ13AWcVqHZa39r0=s176-c-k-c0x00ffffff-no-rj" width="100px;" height="75px;" alt="Air Room"/><br /><sub><b>Air Room</b></sub></a></td>
   </tr>
 </table>
