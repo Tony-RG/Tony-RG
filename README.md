@@ -3,6 +3,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/320px-Processing_2021_logo.svg.png" height="300px">
   </a>
 </p>
+
 ## Hi, I'm Tony, and I'm excited to explore the intersection between art, design and technology by combining programming and creativity using Processing as a tool to create interactive experiences.
 
 ## Learning from:
