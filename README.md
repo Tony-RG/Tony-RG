@@ -8,7 +8,7 @@ Hi, I'm Tony, and I'm excited to explore the intersection between art, design an
 ## Learning from:
 <table>
   <tr>
-    <td align="center"><a href="timrodenbroeker.de/"><img src="https://timrodenbroeker.de/public-relations/" width="100px;" alt="name"/><br /><sub><b>Name</b></sub></a><br />
+    <td align="center"><a href="timrodenbroeker.de/"><img src="https://timrodenbroeker.de/public-relations/" width="100px;" alt="name"/><br /><sub><b>Tim Rodenbroeker</b></sub></a><br />
 
 </table>
 <!--
