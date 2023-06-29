@@ -1,4 +1,4 @@
-# Hi there, I'm Tony
+# Hi there, I'm Tony :v:
 <p align="center">
   <a href="https://processing.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/320px-Processing_2021_logo.svg.png" height="300px">
